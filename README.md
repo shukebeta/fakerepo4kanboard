@@ -9,3 +9,6 @@ another fake repository for smart kanban project
 
 
 # fix #5 issue 
+
+
+# add new features
