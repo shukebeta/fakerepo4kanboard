@@ -6,3 +6,11 @@ another fake repository for smart kanban project
 
 
 # Second pullrequest should create a new task I think
+
+
+# fix #5 issue 
+
+
+# add new features
+
+# the first pullrequest
